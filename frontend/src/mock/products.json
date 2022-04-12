@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "productImage": "",
+    "name": "ARTISON",
+    "description": "Matis condens - Condensing Boiler 24 kW Methane",
+    "price": 1570,
+    "discount": 20,
+    "stars": 4
+  },
+  {
+    "id": 2,
+    "productImage": "",
+    "name": "ARTISON",
+    "description": "Genus One Condensing Boiler - 24 kW",
+    "price": 927,
+    "discount": 20,
+    "stars": 4
+  },
+  {
+    "id": 3,
+    "productImage": "",
+    "name": "BAXI",
+    "description": "Luna Duo-Tec Condensing Boiler - 28 kW",
+    "price": 790,
+    "discount": 0,
+    "stars": 4
+  },
+  {
+    "id": 4,
+    "productImage": "",
+    "name": "ARTISON",
+    "description": "Matis condens - Condensing Boiler 24 kW Methane",
+    "price": 1570,
+    "discount": 20,
+    "stars": 4
+  },
+  {
+    "id": 5,
+    "productImage": "",
+    "name": "ARTISON",
+    "description": "Genus One Condensing Boiler - 24 kW",
+    "price": 927,
+    "discount": 20,
+    "stars": 4
+  },
+  {
+    "id": 6,
+    "productImage": "",
+    "name": "BAXI",
+    "description": "Luna Duo-Tec Condensing Boiler - 28 kW",
+    "price": 790,
+    "discount": 0,
+    "stars": 4
+  },
+  {
+    "id": 7,
+    "productImage": "",
+    "name": "ARTISON",
+    "description": "Matis condens - Condensing Boiler 24 kW Methane",
+    "price": 1570,
+    "discount": 20,
+    "stars": 4
+  },
+  {
+    "id": 8,
+    "productImage": "",
+    "name": "ARTISON",
+    "description": "Genus One Condensing Boiler - 24 kW",
+    "price": 927,
+    "discount": 20,
+    "stars": 4
+  },
+  {
+    "id": 9,
+    "productImage": "",
+    "name": "BAXI",
+    "description": "Luna Duo-Tec Condensing Boiler - 28 kW",
+    "price": 790,
+    "discount": 0,
+    "stars": 4
+  },
+  {
+    "id": 10,
+    "productImage": "",
+    "name": "ARTISON",
+    "description": "Matis condens - Condensing Boiler 24 kW Methane",
+    "price": 1570,
+    "discount": 20,
+    "stars": 4
+  },
+  {
+    "id": 11,
+    "productImage": "",
+    "name": "ARTISON",
+    "description": "Genus One Condensing Boiler - 24 kW",
+    "price": 927,
+    "discount": 20,
+    "stars": 4
+  },
+  {
+    "id": 12,
+    "productImage": "",
+    "name": "BAXI",
+    "description": "Luna Duo-Tec Condensing Boiler - 28 kW",
+    "price": 790,
+    "discount": 0,
+    "stars": 4
+  }
+]

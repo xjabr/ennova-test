@@ -1,0 +1,20 @@
+$primary: #461E7D;
+$darkprimary: #280A50;
+$blackprimary: #1C0639;
+
+$secondary: #FD6600;
+$complementary: #5738FF;
+$tertiary: #FF006E;
+
+$blue: #2CFEF9;
+$green: #2AFD95;
+
+$grid-breakpoints: (
+	xs: 0,
+	sm: 576px,
+	md: 768px,
+	lg: 1024px,
+	xl: 1200px
+) !default;
+
+@import "bootstrap/scss/bootstrap";

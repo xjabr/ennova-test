@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  web:
+    container_name: be-crypto
+    restart: on-failure
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - "5000:5000"
+    command: >
+      sh -c "yarn start"
+    
